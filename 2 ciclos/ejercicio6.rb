@@ -3,7 +3,7 @@
 
 multiplicacion = 1
 
-10.times do |i|
+(1..10).each do |i|
   multiplicacion *= i
 end
 

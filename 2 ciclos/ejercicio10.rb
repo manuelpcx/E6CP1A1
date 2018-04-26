@@ -9,3 +9,4 @@ while(ready == 0){
   puts "Opción 4: Salir"
   opcion = get.chomps.to_i
 }
+end
